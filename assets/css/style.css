@@ -1,0 +1,64 @@
+button, div, input {
+	margin: 18px;
+	font: white;
+	font: 30px;
+}
+
+img {
+	max-width: 800px;
+	max-height: 800px;
+	display: inline-block;
+
+}
+
+label {
+	color:green 25px;
+	text-align: center;
+	background-color:white;
+	height: 50px;
+	width: 400px;
+	position: relative;
+
+	
+}
+
+form {
+	font-family:  'Luckiest Guy', cursive; 
+	font: 30px;
+	font: green;
+}
+
+h1{
+  text-align: center;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+.btn-default {
+    color: green;
+	font-size: medium;
+	font: white;
+	text-align: center;
+	
+}
+
+body {
+	background-image: url("rainbow-circles.jpg");
+	font-family:  'Luckiest Guy', cursive; 
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+	width:1000px;
+	height: 900px;
+	text-align: center;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: none;
+}
+
+
+
